@@ -5,7 +5,6 @@ Numery telefonów występowały w wielu różnych formatach, m.in. z prefiksem `
 Numery zostały ustandaryzowane do formatu `+48XXXXXXXXX`. Brakujące wartości oznaczono jako `unknown`.
 
 <details>
-<summary>📷 Zobacz przykłady przed i po czyszczeniu</summary>
 
 **Przed czyszczeniem**
 
