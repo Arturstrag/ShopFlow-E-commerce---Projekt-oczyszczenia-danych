@@ -36,10 +36,3 @@ Zidentyfikowano m.in.:
 Problemy te zostały przeanalizowane i naprawione przy użyciu SQL oraz PostgreSQL.
 
 ---
-
-```sql
-SELECT customer_id, COUNT(*)
-FROM customers
-GROUP BY custome*_id
-HAVING COUNT(*) > 1;
-```
