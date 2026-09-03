@@ -4,7 +4,7 @@ Numery telefonów występowały w wielu różnych formatach, m.in. z prefiksem `
 
 Numery zostały ustandaryzowane do formatu `+48XXXXXXXXX`. Brakujące wartości oznaczono jako `unknown`.
 
-<details>
+
 
 **Przed czyszczeniem**
 
@@ -18,7 +18,7 @@ Numery zostały ustandaryzowane do formatu `+48XXXXXXXXX`. Brakujące wartości 
 
 ![Brakujące telefony oznaczone jako unknown](image/oczyszczone_dane/telefony_unknown.png)
 
-</details>
+
 
 # ShopFlow-E-commerce-Projekt-oczyszczania-danych
 
