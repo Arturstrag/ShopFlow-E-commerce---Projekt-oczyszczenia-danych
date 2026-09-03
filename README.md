@@ -37,4 +37,14 @@ Problemy te zostały przeanalizowane i naprawione przy użyciu SQL oraz PostgreS
 
 ---
 
-
+```sql
+6
+SELECT customer_id, COUNT(*)
+7
+FROM customers
+8
+GROUP BY custome*_id
+9
+HAVING COUNT(*) > 1;
+10
+```
