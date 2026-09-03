@@ -1,3 +1,26 @@
+#### 1. Niespójne formaty numerów telefonów
+
+Numery telefonów występowały w wielu różnych formatach, m.in. z prefiksem `+48`, bez prefiksu, ze spacjami lub myślnikami.
+
+Numery zostały ustandaryzowane do formatu `+48XXXXXXXXX`. Brakujące wartości oznaczono jako `unknown`.
+
+<details>
+<summary>📷 Zobacz przykłady przed i po czyszczeniu</summary>
+
+**Przed czyszczeniem**
+
+![Różne formaty telefonów](image/surowe_dane/telefony_rozne_formaty_customers.png)
+
+**Po czyszczeniu**
+
+![Telefony po czyszczeniu](image/oczyszczone_dane/telefony_po_czyszczeniu.png)
+
+**Brakujące numery**
+
+![Brakujące telefony oznaczone jako unknown](image/oczyszczone_dane/telefony_unknown.png)
+
+</details>
+
 # ShopFlow-E-commerce-Projekt-oczyszczania-danych
 
 ## 🎯 Cel projektu
