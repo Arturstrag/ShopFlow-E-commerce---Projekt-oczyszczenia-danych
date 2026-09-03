@@ -53,6 +53,7 @@ Numery telefonów występowały w wielu różnych formatach, np. z prefiksem `+4
 
 Numery telefonów zostały ustandaryzowane do jednego formatu `+48XXXXXXXXX’:
 ![Telefony po czyszczeniu](image/oczyszczone_dane/telefony_po_czyszczeniu.png)
+
 Występowały także brakujące numery telefonów, które ustawiono jako ‘unknown’ 
 ![Brakujące telefony oznaczone jako unknown](image/oczyszczone_dane/telefony_unknown.png)
 Kolumnę z numerem telefonu przeanalizowano także pod kątem długości numeru telefonu 
