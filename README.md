@@ -45,7 +45,7 @@ W danych klientów zidentyfikowano następujące problemy:
 
 Numery telefonów występowały w wielu różnych formatach, np. z prefiksem `+48`, bez prefiksu, ze spacjami lub myślnikami.
 
-![Różne formaty telefonów](image/telefony_rozne_formaty_customers.png)
+![Różne formaty telefonów](image/surowe_dane/telefony_rozne_formaty_customers.png)
 
 Numery zostały ustandaryzowane do jednego formatu:
 
